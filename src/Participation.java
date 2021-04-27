@@ -67,5 +67,5 @@ public class Participation {
     public void setDuration(double duration) {
         this.duration = duration;
     }
-    
+
 }
